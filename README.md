@@ -15,6 +15,6 @@ Whether it's optimizing tax structures, processing refund claims, or streamlinin
   <img src="https://img.shields.io/badge/Tally_Prime-009DC4?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=intuit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zoho_CRM-FC4C02?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EmaraTax-UAE_CT_System-007B8A?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EmaraTax-007B8A?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
