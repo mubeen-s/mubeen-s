@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Mubeen Sadiq 👋</h1>
-<h3 align="center">Finance & Tax Professional | UAE Corporate Tax, VAT & Excise Specialist</h3>
+<h3 align="center">Hi, I'm Mubeen Sadiq 👋</h3>
+<h5 align="center">Finance & Tax Professional | UAE Corporate Tax, VAT & Excise Specialist</h5>
 
 ---
 
-Hi, I'm Mubeen Sadiq, a Finance and Tax Professional based in Dubai with over **8 years** of experience in accounting, financial reporting, and taxation. I specialize in **UAE Corporate Tax, VAT, and Excise**, supported by a strong academic foundation (**Postgraduate in Finance, CertIFRS, FMVA**, and a **Diploma in UAE VAT**).
+Hi, I'm **Mubeen Sadiq**, a Finance and Tax Professional based in Dubai with over **8 years** of experience in accounting, financial reporting, and taxation. I specialize in **UAE Corporate Tax, VAT, and Excise**, supported by a strong academic foundation (**Postgraduate in Finance**, **CertIFRS**, **FMVA**, and a **Diploma in UAE VAT**).
 
 I've successfully led end-to-end finance and tax functions across multiple industries — handling statutory compliance, tax planning, ESR filings, and automating reports using advanced Excel. I'm well-versed in **FTA EmaraTax**, **Tally ERP/Prime**, and other key financial tools, helping businesses stay compliant and financially efficient.
 
