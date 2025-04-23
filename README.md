@@ -1,19 +1,20 @@
-You said:
-Hi, I'm **Mubeen Sadiq**, a Finance and Tax Professional based in Dubai with over **8 years** of experience in accounting, financial reporting, and taxation. I specialize in **UAE Corporate Tax, VAT, and Excise**, supported by a strong academic foundation (**Postgraduate in Finance**, **CertIFRS**, **FMVA**, and a **Diploma in UAE VAT**).
+<span style="font-size:12px">
+Hi, I'm <b>Mubeen Sadiq</b>, a Finance and Tax Professional based in Dubai with over <b>8 years</b> of experience in accounting, financial reporting, and taxation. I specialize in <b>UAE Corporate Tax, VAT, and Excise</b>, supported by a strong academic foundation (<b>Postgraduate in Finance</b>, <b>CertIFRS</b>, <b>FMVA</b>, and a <b>Diploma in UAE VAT</b>).
 
-I've successfully led end-to-end finance and tax functions across multiple industries — handling statutory compliance, tax planning, ESR filings, and automating reports using advanced Excel. I'm well-versed in **FTA EmaraTax**, **Tally ERP/Prime**, and other key financial tools, helping businesses stay compliant and financially efficient.
+I've successfully led end-to-end finance and tax functions across multiple industries — handling statutory compliance, tax planning, ESR filings, and automating reports using advanced Excel. I'm well-versed in <b>FTA EmaraTax</b>, <b>Tally ERP/Prime</b>, and other key financial tools, helping businesses stay compliant and financially efficient.
 
-Whether it's optimizing tax structures, processing refund claims, or streamlining reporting systems, I deliver **accurate, timely, and client-focused** solutions.
+Whether it's optimizing tax structures, processing refund claims, or streamlining reporting systems, I deliver <b>accurate, timely, and client-focused</b> solutions.
+</span>
 
 ---
 
-### 🧰 Tools
+### <span style="font-size:12px">🧰 Tools</span>
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tally_Prime-009DC4?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=intuit&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Zoho_CRM-FC4C02?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/EmaraTax-UAE_CT_System-007B8A?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tally_Prime-009DC4?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=intuit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zoho_CRM-FC4C02?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EmaraTax-UAE_CT_System-007B8A?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
