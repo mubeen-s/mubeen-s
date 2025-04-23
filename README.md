@@ -1,30 +1,19 @@
 <h1 align="center">Hi, I'm Mubeen Sadiq 👋</h1>
-<h3 align="center">🎯 Tax Consultant | FMVA Certified | UAE Corporate Tax, VAT & Excise Specialist</h3>
+<h3 align="center">Finance & Tax Professional | UAE Corporate Tax, VAT & Excise Specialist</h3>
 
 ---
 
-### 💫 About Me
+### 👨‍💼 About Me
 
-🚀 Finance and tax professional with over **7 years** of experience in:
-- ✅ UAE Corporate Tax, VAT & Excise compliance  
-- ✅ Tax advisory, audits & refund applications  
-- ✅ Financial reporting, Excel modeling & ERP systems
+Hi, I'm Mubeen Sadiq, a Finance and Tax Professional based in Dubai with over **8 years** of experience in accounting, financial reporting, and taxation. I specialize in **UAE Corporate Tax, VAT, and Excise**, supported by a strong academic foundation (**Postgraduate in Finance, CertIFRS, FMVA**, and a **Diploma in UAE VAT**).
 
-🧠 Currently focused on:
-- 🔍 Corporate tax structuring & optimization in the UAE  
-- 📊 Data analysis & visualization
+I've successfully led end-to-end finance and tax functions across multiple industries — handling statutory compliance, tax planning, ESR filings, and automating reports using advanced Excel. I'm well-versed in **FTA EmaraTax**, **Tally ERP/Prime**, and other key financial tools, helping businesses stay compliant and financially efficient.
 
-🧰 Tools of the trade:
-- **Tally ERP/Prime**  
-- **Advanced MS Excel**  
-- **Microsoft Office Suite**
-
-📍 Based in **Dubai, UAE**  
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/mubeen-sadiq/)
+Whether it's optimizing tax structures, processing refund claims, or streamlining reporting systems, I deliver **accurate, timely, and client-focused** solutions.
 
 ---
 
-### 💻 Tech Stack
+### 🧰 Tools & Tech Stack
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
@@ -33,32 +22,4 @@
   <a href="#"><img src="https://img.shields.io/badge/Zoho_CRM-FC4C02?style=for-the-badge&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/EmaraTax-UAE_CT_System-007B8A?style=for-the-badge&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mubeen-sadiq/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mubeensadiq952@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🧾 Notable Achievements
-
-🏆 Successfully processed tax refunds exceeding **AED 100 million** for Free Zones, private & public sector clients.  
-🔍 Conducted transaction-level audits ensuring refund eligibility in compliance with UAE tax laws.  
-📢 Delivered engaging tax presentations and workshops for clients across industries.  
-📈 Led corporate tax planning strategies that minimized liabilities while ensuring compliance.
-
----
-
-<p align="center">
-  🔧 This profile is a space to share tools, templates & insights from my tax & finance journey. More updates coming soon!
 </p>
