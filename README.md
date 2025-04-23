@@ -8,11 +8,5 @@ Whether it's optimizing tax structures, processing refund claims, or streamlinin
 
 ### 🧰 Tools & Tech Stack
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tally_Prime-009DC4?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=intuit&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Zoho_CRM-FC4C02?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/EmaraTax-UAE_CT_System-007B8A?style=for-the-badge&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" alt="Microsoft Excel" width="40" height="40" title="Microsoft Excel"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tally_Solutions_Logo.svg" alt="Tally Prime" width="40" height="40" title="Tally Prime"/> <img src="https://cdn.worldvectorlogo.com/logos/quickbooks-1.svg" alt="QuickBooks" width="40" height="40" title="QuickBooks"/> <img src="https://seeklogo.com/images/Z/zoho-logo-2828E888D8-seeklogo.com.png" alt="Zoho CRM" width="40" height="40" title="Zoho CRM"/> <img src="https://emaratac.gov.ae/assets/emaratac_logo.svg" alt="EmaraTax" width="40" height="40" title="EmaraTax (UAE CT)"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" title="Power BI"/> </p>
 </p>
