@@ -7,7 +7,7 @@ Whether it's optimizing tax structures, processing refund claims, or streamlinin
 
 ---
 
-### 🧰 Tools & Tech Stack
+### 🧰 Tools
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
