@@ -10,11 +10,10 @@ Whether it's optimizing tax structures, processing refund claims, or streamlinin
 
 ### <span style="font-size:12px">🧰 Tools</span>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tally_Prime-009DC4?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=intuit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoho-FC4C02?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EmaraTax-007B8A?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-</p>
+<span style="font-size:11px">
+▪ Microsoft Excel  
+▪ Tally Prime  
+▪ Zoho CRM  
+▪ EmaraTax  
+▪ Power BI  
+</span>
