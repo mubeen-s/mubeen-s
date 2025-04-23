@@ -5,32 +5,22 @@
 
 ### 💫 About Me
 
-- 👨‍💼 7+ years in Tax & Finance:  
-  - UAE Corporate Tax, VAT & Excise compliance  
-  - Tax advisory, audits & refund applications  
-  - Financial reporting, Excel modeling & ERP systems
+🚀 Finance and tax professional with over **7 years** of experience in:
+- ✅ UAE Corporate Tax, VAT & Excise compliance  
+- ✅ Tax advisory, audits & refund applications  
+- ✅ Financial reporting, Excel modeling & ERP systems
 
-- 🧰 Tools I use:  
-  **Tally ERP/Prime**, **Advanced MS Excel**, **MS Office Suite**
+🧠 Currently focused on:
+- 🔍 Corporate tax structuring & optimization in the UAE  
+- 📊 Data analysis & visualization
 
-- 🌱 Currently exploring:  
-  **Corporate tax structuring**, **Data analysis**, **Visualization**
+🧰 Tools of the trade:
+- **Tally ERP/Prime**
+- **Advanced MS Excel**
+- **Microsoft Office Suite**
 
-- 📍 Based in **Dubai, UAE**  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mubeen-sadiq/)
-
----
-
-### 🌐 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mubeen-sadiq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mubeensadiq952@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+📍 Based in **Dubai, UAE**  
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/mubeen-sadiq/)
 
 ---
 
@@ -47,24 +37,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubeen-s&theme=dark&hide_border=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubeen-s&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubeen-s&theme=dark&hide_border=true&layout=compact" height="150"/>
-</p>
-
----
-
-### 🔢 Visitor Count
-
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=mubeen-s&label=Profile%20Views&color=6&icon=5&pretty=false"/>
+  <a href="https://www.linkedin.com/in/mubeen-sadiq/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mubeensadiq952@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  🛠️ This page is a work in progress as I share tools, templates, and insights from my tax and finance journey.
+  🔧 This profile is a space to share tools, templates & insights from my tax & finance journey. More updates coming soon!
 </p>
