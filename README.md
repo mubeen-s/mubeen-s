@@ -1,16 +1,17 @@
-<span style="font-size:12px">
-💼 Finance & Tax Pro | 8+ yrs in UAE  
-🏢 Corporate Tax, VAT, Excise specialist  
-📊 Excel power user | Love automating stuff  
-🧾 FTA EmaraTax | Tally Prime | Reporting nerd  
-🔄 Built tax workflows, ESR filings, refund claims  
-💻 Into tech | VBA, low-code tools, Git-curious  
-🛠️ Always exploring smarter ways to work  
-</span>
+# 👋 Hi, I'm Mubeen Sadiq
+
+💼 Finance & Tax Professional based in Dubai  
+📆 8+ years in Accounting, Taxation & Reporting  
+📌 UAE Corporate Tax | VAT | Excise  
+🎓 PG in Finance | CertIFRS | FMVA | UAE VAT Diploma  
+📊 Excel automation lover | Tally & EmaraTax expert  
+🧾 Tax planning, ESR, refund claims, financial compliance  
+💻 Tech-curious | VBA, low-code tools, GitHub explorer  
+🚀 Helping businesses stay compliant & efficient
 
 ---
 
-### <span style="font-size:12px">🧰 Tools</span>
+## 🧰 Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logoColor=white"/>
@@ -21,3 +22,13 @@
   <img src="https://img.shields.io/badge/EmaraTax-007B8A?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black"/>
 </p>
+
+---
+
+<!-- Optionally add GitHub Stats or Repo links below -->
+<!--
+## 📈 GitHub Stats
+
+![Mubeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+-->
+
