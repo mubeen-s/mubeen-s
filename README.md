@@ -16,7 +16,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tally_Prime-009DC4?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoho-FC4C02?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=intuit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zoho-FC4C02?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/EmaraTax-007B8A?style=flat&logoColor=white"/>
