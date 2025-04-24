@@ -1,13 +1,11 @@
-👋 Hi, I'm Mubeen Sadiq
+### 👋 Hey, I'm Mubeen
 
-💼 Finance & Tax Professional based in Dubai  
-📆 8+ years in Accounting, Taxation & Reporting  
-📌 UAE Corporate Tax | VAT | Excise  
-🎓 PG in Finance | CertIFRS | FMVA | UAE VAT Diploma  
-📊 Excel automation lover | Tally & EmaraTax expert  
-🧾 Tax planning, ESR, refund claims, financial compliance  
-💻 Tech-curious | VBA, low-code tools, GitHub explorer  
-🚀 Helping businesses stay compliant & efficient
+📍 Finance & Tax Professional  
+📊 UAE Corporate Tax | VAT | Excise  
+🧠 Into automation, Excel, and clean reporting  
+🛠️ Tally, EmaraTax, Power BI, VBA  
+💡 Learning code, exploring tech & tools  
+☕ Always up for simplifying the complex
 
 ---
 
