@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mubeen Sadiq
+👋 Hi, I'm Mubeen Sadiq
 
 💼 Finance & Tax Professional based in Dubai  
 📆 8+ years in Accounting, Taxation & Reporting  
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Tally_Prime-009DC4?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zoho-FC4C02?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=intuit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoho_CRM-FC4C02?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zoho-FC4C02?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/EmaraTax-007B8A?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black"/>
 </p>
